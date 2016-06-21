@@ -1,0 +1,12 @@
+#face{
+	width:25%:
+	height:25%:
+}
+
+body{
+	background-image: url("../assets/background.jpg");
+}
+
+h1{
+	color: #00e5ee;
+}
